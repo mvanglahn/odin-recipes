@@ -1,1 +1,0 @@
-Basic website project for recipes
